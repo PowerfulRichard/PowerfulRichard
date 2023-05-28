@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img  src="profile-3d-contrib/profile-gitblock.svg" />
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=powerfulrichard&theme=transparent" />
 </div>
 
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
