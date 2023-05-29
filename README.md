@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center" src="/github-metrics.svg" alt="Metrics">
 </div>
------
+
 <p align="center"> 
   <a href="https://github.com/PowerfulRichard"><img src="https://skillicons.dev/icons?i=c,cpp,html,js,css,py,php,md,ps,pr,au,bash,git,idea,cloudflare,wordpress&perline=8"/></a>
 </p>
